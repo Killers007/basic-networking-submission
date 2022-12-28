@@ -18,7 +18,7 @@ Otomatisasi deployment dan konfigurasi menggunakan tools IaC (Infrastucture as C
 1. Clone repository
 
    ```sh
-   git clone https://github.com/andrijunaedi/basic-networking-submission.git
+   git clone https://github.com/Killers007/basic-networking-submission.git
    cd basic-networking-submission
    ```
 
